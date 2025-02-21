@@ -2,7 +2,6 @@ Para testar esta atividade clone este repositório na sua IDE após navega até 
 
 
   npm install
-  
   npm run dev
 
 
